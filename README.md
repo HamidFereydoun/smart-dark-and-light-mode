@@ -2,6 +2,7 @@
 A simple code for smart light and dark themes
 
 Even after closing the browser and coming back after a few days, the selected theme is still displayed💻
+
 ![infographic](/img/readme-img.jpg)
 
 This is a simple and experimental code, but it explains well the concept of localStorage, it is not interesting 👽
